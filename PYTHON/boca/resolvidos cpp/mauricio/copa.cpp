@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 using namespace std;
 
@@ -38,7 +39,7 @@ int main(){
 		else if((k&&l)>10){
 			cout<<"oitavas";
 		}
-		else{
+		else if{
 			cout<<"quartas\n";
 		}
 		else{
@@ -48,3 +49,4 @@ int main(){
 
 	return 0;
 }
+*/
